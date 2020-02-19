@@ -1,8 +1,8 @@
 #recipe Blog
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "host.com";
-Settings[BlogKeys.Title] = "My Blog";
-Settings[BlogKeys.Description] = "Welcome!";
+Settings[Keys.Host] = "Stelzi.net";
+Settings[BlogKeys.Title] = "Stelzi79 - Blog of Useful Stuff";
+Settings[BlogKeys.Description] = "The Place where I blog about Useful Stuff";
 
 // Add any pipeline customizations here

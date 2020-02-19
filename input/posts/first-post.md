@@ -1,6 +1,6 @@
+---
 Title: First Post
-Published: 1/1/2016
+Published: 2020-02-19
 Tags: [Introduction, Test]
 ---
-
 This is my first post!
