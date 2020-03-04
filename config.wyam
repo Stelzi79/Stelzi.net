@@ -2,7 +2,7 @@
 
 // Customize your settings and add new ones here
 Settings[Keys.Host] = "Stelzi.net";
-Settings[BlogKeys.Title] = "Stelzi79 - Blog of Useful Stuff";
-Settings[BlogKeys.Description] = "The Place where I blog about Useful Stuff";
+Settings[BlogKeys.Title] = "Stelzi79 - Some Useful Stuff";
+Settings[BlogKeys.Description] = "Useful Stuff Here";
 
 // Add any pipeline customizations here
