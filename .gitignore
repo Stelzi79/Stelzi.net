@@ -350,9 +350,9 @@ MigrationBackup/
 .ionide/
 
 # Wyam Ignore - Based on https://wyam.io/docs/advanced/what_to_exclude_from_source_control
-output/*
-config.wyam.dll
-config.wyam.hash
+**/output/*
+*config.wyam.dll
+*config.wyam.hash
 *packages.xml
 
   
@@ -362,3 +362,4 @@ config.wyam.hash
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
