@@ -1,6 +1,6 @@
 Title: First Post
 Published: 2020-04-01
-Tags: Introduction
+Tags: [Introduction]
 
 ---
 

@@ -6,4 +6,8 @@ Settings[Keys.Host] = "blog.stelzi.net";
 Settings[BlogKeys.Title] = "Stelzi79 Blog";
 Settings[BlogKeys.Description] = "Welcome to things in IT and Coding that I find interesting!";
 
+Settings[BlogKeys.IndexPageSize] = 3;
+Settings[BlogKeys.IndexFullPosts] = true;
+Settings[BlogKeys.ArchivePageSize] = 20;
+
 // Add any pipeline customizations here
