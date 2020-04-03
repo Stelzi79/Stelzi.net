@@ -1,3 +1,3 @@
 Push-Location "./src/blog.stelzi.net"
-wyam --recipe Blog --theme CleanBlog -p -w
+wyam -p -w
 Pop-Location
