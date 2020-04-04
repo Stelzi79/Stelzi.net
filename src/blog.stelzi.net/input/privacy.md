@@ -1,7 +1,5 @@
 Title: Privacy
-Tags: privacy, GDPR
-
 
 ---
 
-No data collected!
+No data is collected!
