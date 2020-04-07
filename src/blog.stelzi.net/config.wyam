@@ -10,4 +10,6 @@ Settings[BlogKeys.IndexPageSize] = 3;
 Settings[BlogKeys.IndexFullPosts] = true;
 Settings[BlogKeys.ArchivePageSize] = 20;
 
+Settings[Keys.LinkHideExtensions] = false;
+
 // Add any pipeline customizations here
